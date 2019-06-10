@@ -1,13 +1,13 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "Allfiles/Mod01/Labfiles/Starter/ContosoConf"
-	}
-],
-"settings": {
-	"liveServer.settings.multiRootWorkspaceName": "ContosoConf"
-}
+    {
+      "path": "."
+    },
+    {
+      "path": "Allfiles/Mod02/Labfiles/Starter/Exercise 1/ContosoConf"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ContosoConf"
+  }
 }

@@ -1,8 +1,7 @@
-
 /* Styles for the page navigation bar */
 
 nav.page-nav {
-    background-color: blue;
+    background-color: #1b1b1b;
     line-height: 6rem;
     font-size: 1.7rem;
 }
@@ -43,10 +42,14 @@ nav.page-nav .active {
 }
 
 nav.page-nav .active:hover {
-    color: #fff; /* Overrides hover effect for active page link */
+    color: #fff;
+    /* Overrides hover effect for active page link */
 }
 
-nav.page-nav .active:before /* Creates ribbon effect on active link */ {
+nav.page-nav .active:before
+
+/* Creates ribbon effect on active link */
+    {
     position: absolute;
     top: 6rem;
     display: block;
@@ -58,7 +61,10 @@ nav.page-nav .active:before /* Creates ribbon effect on active link */ {
     content: "";
 }
 
-nav.page-nav .active:after /* Creates ribbon effect on active link */ {
+nav.page-nav .active:after
+
+/* Creates ribbon effect on active link */
+    {
     position: absolute;
     display: block;
     height: 0;
